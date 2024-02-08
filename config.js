@@ -63,23 +63,23 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "UK LUCIFER 👽", 
+  author: process.env.Author || "@unaisgod",
+  packname: process.env.PackName || "UK LUCIFER 👽",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© UK LUCIFER 👽",
   prefa: process.env.Prefix || ['-'],
-  themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  themeemoji: process.env.ThemeEmoji || "😈👽",
+  ownername: process.env.Owner_Name || "unaisgod",
+  ownernumber: process.env.Owner_Number || "918714258795",
+  instagramId: process.env.Insta || "uk_lucifer_ksd",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://DARKSHAN:3000@cluster0.t1wsjlv.mongodb.net/",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID", 
+  sessionId: process.env.SESSION_ID || "S2NCQTNUakwjX2c3dDdGV0ppM3ZQcTBaTGdVe_Queen-Anya_XEyVVo5WEtWXzNRblF0WkZDTVdxUG1mZw==", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
@@ -105,18 +105,18 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "UK LUCIFER 👽" 
+global.author = process.env.Author || "@unaisgod" 
+global.packname = process.env.PackName || "UK LUCIFER 👽" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© UK LUCIFER 👽" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "unaisgod" 
+global.ownernumber = process.env.Owner_Number || "918714258795" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
+global.instagramId = process.env.Insta || "uk_lucifer_ksd" 
 global.email = process.env.Email_Id || "example@example.com" 
   
 //--------------- Tip ----------------\\
